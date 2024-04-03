@@ -1,158 +1,157 @@
-// const img = require('./../public/img')
 const logotext = "TEDDY";
 const meta = {
     title: "Teddy Assefa",
-    description: "I’m Infrastructure Admin and Full stack developer.",
+    description: "I’m Teddy Assefa data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
     title: "I’m Teddy Assefa",
     animated: {
-        first: "I am full-Sack Developer",
-        second: "I am CISCO network Developer",
-        third: "I am windows System Admin",
-        fourth: "I am Infrastructure Admin",
-        fives : "I am Integration developer",
+        first: "I am full-Stack Developer",
+        second: "I Java and Angular probational",
+        third: "I system Integration Developer",
+        fourth: "I windows system Administrator",
+        filth: "I CISCO Network engineer",
     },
-    description: "Proven full-stack java developer with a passion to learn and work with new technologies that make a positive impact on society.  proficient in Angular, Java and JavaScript develop and improve performance. Dedicated to learning better ways to write clean and efficient code while keeping up with the newest tech stacks, improve my creativity, analytics, and problem-solving while providing opportunities to grow and enhance my technical abilities.",
-    your_img_url: "https://media.istockphoto.com/id/1143736474/photo/dark-web-hooded-hacker.jpg?s=2048x2048&w=is&k=20&c=5ZaTronEaRMH2MAbPUfsKQDIXo14GeSnugNM8rvNQ4M=",
+    description: "As an organized and highly creative individual with twelve (12) years a verity of positions as Medial assembly operator, mansion operator, application development, Microsoft System administrator and Cisco Networking Administration experience; love the challenges of working with a dynamic and fast paced working environment. The knowledge gained from my corporate experience has shaped my ability to adapt quickly, work efficiently, think creatively, and work effectively as part of a team or on my own.",
+    your_img_url: "img/profile.jpg",
 };
 
 const dataabout = {
-    title: "Smeary of My carrara path",
-    aboutme: "As an organized and highly creative individual with twelve (12) years of system and Networking Administration experience; love the challenges of working with a dynamic and fast paced working environment. The knowledge gained from my corporate experience has shaped my ability to adapt quickly, work efficiently, think creatively, and work effectively as part of a team or on my own.",
+    title: "I am...",
+    aboutme: "As an organized and highly creative individual with more than six (6) years of system and Networking Administration experience; love the challenges of working with a dynamic and fast paced working environment. The knowledge gained from my corporate experience has shaped my ability to adapt quickly, work efficiently, think creatively, and work effectively as part of a team or on my own.",
 };
-const worktimeline = [
-
-
-
-    {
-        jobtitle: "Full Stack web Developer",
+const worktimeline = [{
+        jobtitle: "Java developer",
         where: "AWG",
-        date: "2020",
+        date: "2021",
     },
     {
-        jobtitle: "Middle ware integration Developer",
+        jobtitle: "IIB Applications Developer",
         where: "DXC Technology",
         date: "2017",
-        Side: "Developer",
     },
     {
-        jobtitle: "Microsoft Windows Server ",
-        where: "Dashen Bank ",
+        jobtitle: "Infrastructure Admin",
+        where: "Dashe Bank",
         date: "2009",
-        Side: "Sys Admin",
     },
-
 ];
 
-const skills = [
-
-    {
-        name: "Angular, React, HTML & CSS",
+const skills = [{
+        name: "HTML, CSS",
         value: 90,
     },
     {
-        name: "Java core, Spring boot",
+        name: "Javascript, Jquery ",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Angular",
         value: 80,
     },
     {
-        name: "Jquery",
-        value: 85,
-    },
-    {
-        name: "Microsoft Sever Admin",
-        value: 90,
-    },
-    {
-        name: "CISCO Network Administration",
-        value: 75,
-    },
-    {
-        name: "CISCO Network switching and Router contactConfig",
-        value: 70,
-    },
-    {
-        name: "Could Verctualzetion ",
+        name: "React",
         value: 60,
     },
     {
-        name: "Help dest support ",
+        name: "Java 8",
         value: 85,
     },
 ];
 
-const services = [
-    {
-        title: "WebSite Developer",
-        description: "Proven full-stack java developer with a passion to learn and work with new technologies that make a positive impact on society. Extremely proficient in Angular, Java and JavaScript develop and improve performance. Dedicated to learning better ways to write clean and efficient code while keeping up with the newest tech stacks, improve my creativity, analytics, and problem-solving while providing opportunities to grow and enhance my technical abilities",
+const services = [{
+        title: "Applications development",
+        description: "Proven full-stack java developer with a passion to learn and work with new technologies that make a positive impact on society. Extremely proficient in Angular, Java and JavaScript develop and improve performance. Dedicated to learning better ways to write clean and efficient code while keeping up with the newest tech stacks, improve my creativity, analytics, and problem-solving while providing opportunities to grow and enhance my technical abilities.",
     },
     {
-        title: "integration Developer",
+        title: "Middle-ware Integration Developer",
         description: "Experienced in DataPower, MQ, IIB/WMB, WebSphere Application Server administration. Experienced in message flow development in WMB/IIB using various nodes and in WebSphere MQ, WebSphere Message Broker, WebSphere Application Server infrastructure design and installation.",
     },
     {
-        title: "Infrastructure Administration",
+        title: "Infrastructure Administrator",
         description: "As an organized and highly creative individual with more than six (6) years of system and Networking Administration experience; love the challenges of working with a dynamic and fast paced working environment. The knowledge gained from my corporate experience has shaped my ability to adapt quickly, work efficiently, think creatively, and work effectively as part of a team or on my own.",
     },
 ];
 
-const dataportfolio = [
+const dataportfolio = [{
+        img: "img/weather1.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "https://github.com/teddyassef23/weather",
+    },
     {
-    img: "./img/questions.jpg",
-    description: "The questions appleton is developed for University of Minnesota class home work.",
-    link: "#",
-},
-{
-img: "./img/cultural_foods.jpg",
-description: "cultural_foods appleton is developed for University of Minnesota project.",
-link: "#",
-},
+        img: "img/questions.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "https://github.com/teddyassef23/Tedd_Code_Quiz",
+    },
     {
-    img: "./img/medication.jpg",
-    description: "The medication or Pull management  appleton is developed for University of Minnesota project work.",
-    link: "#",
-},
+        img: "img/password.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "https://github.com/teddyassef23/password-Generatoe",
+    },
     {
-    img: "./img/weather.jpg",
-    description: "weather forecasting  appleton is developed for University of Minnesota class home work..",
-    link: "#",
-},
+        img: "img/cultural_foods.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "https://github.com/teddyassef23/Country-s_and_cultural_foods",
+    },
     {
-    img: "./img/password.jpg",
-    description: "Password Generator  appleton is developed for University of Minnesota class home work.",
-    link: "#",
-},
-//     {
-//     img: "./img/MicrosoftServer.jpg",
-//     description: "The wisdom of life consists in the elimination of non-essentials.",
-//     link: "#",
-// },
-// {
-//     img: "https://picsum.photos/400/800/?grayscale",
-//     description: "The wisdom of life consists in the elimination of non-essentials.",
-//     link: "#",
-// },
+        img: "img/medication.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "https://github.com/JacobK05/Med-Manager",
+    },
+    {
+        img: "img/MicrosoftServer.jpg",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 
+    // {
+    //     img: "https://picsum.photos/400/600/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/300/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/550/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
+    // {
+    //     img: "https://picsum.photos/400/700/?grayscale",
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(123)456-7878",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    MY_EMAIL: "teddyassef23@gmail.com",
+    MY_FONE: "(571)392-1661",
+    description: "Feel free to contact me anytime, any day. If you have a short message or comment, you can send it to me. If you need a consultation for all types of IT area, don't hesitate. ",
+    // creat an emailjs.com account 
+    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+    MY_SERVICE_ID: "service_id",
+    MY_TEMPLATE_ID: "template_id",
+    MY_USER_ID: "teddyassef23@gmail.com",
 };
 
 const socialprofils = {
-    github: "https://github.com/dashboard",
+    github: "https://github.com/teddyassef23",
     facebook: "https://facebook.com",
-    linkedin: "www.linkedin.com/in/tedddy",
+    linkedin: "https://www.linkedin.com/in/tedddy",
     twitter: "https://twitter.com",
 };
 export {

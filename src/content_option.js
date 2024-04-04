@@ -8,7 +8,7 @@ const introdata = {
     title: "I’m Teddy Assefa",
     animated: {
         first: "I am full-Stack Developer",
-        second: "I Java and Angular probational",
+        second: "I Java and Angular Developer",
         third: "I system Integration Developer",
         fourth: "I windows system Administrator",
         filth: "I CISCO Network engineer",
